@@ -26,9 +26,12 @@ body {
   height: 50px;
   display: flex;
   margin: 15px;
+  padding: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
+  border-style: solid;
+  border-radius: 10px;
 }
 
 .taskItem {
@@ -75,3 +78,4 @@ body {
   font-weight: bolder;
   font-size: x-large;
 }
+
